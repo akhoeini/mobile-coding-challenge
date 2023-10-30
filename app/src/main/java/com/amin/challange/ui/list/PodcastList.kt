@@ -31,7 +31,7 @@ import com.amin.challange.data.Podcast
 
 
 @Composable
-fun Podcast(
+fun PodcastList(
     navigator: (String) -> Unit,
     modifier: Modifier = Modifier
 ) {
